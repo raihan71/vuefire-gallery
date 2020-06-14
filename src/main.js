@@ -6,7 +6,7 @@ Vue.config.productionTip = false;
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-
+// Your Firebase SDK goes here
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
