@@ -1,8 +1,8 @@
 # vuefire-gallery
 
 > Vuefire-gallery from Vuejs & Firebase tutorial : build gallery image app
-> part 1 - https://rayhanstar.blogspot.com/2020/06/vuejs-firebase-tutorial-build-image.html
-> part 2 - https://rayhanstar.blogspot.com/2020/06/vuejs-firebase-tutorial-build-image_11.html
+<br /> part 1 - https://rayhanstar.blogspot.com/2020/06/vuejs-firebase-tutorial-build-image.html
+<br /> part 2 - https://rayhanstar.blogspot.com/2020/06/vuejs-firebase-tutorial-build-image_11.html
 
 ## Project setup
 ```
