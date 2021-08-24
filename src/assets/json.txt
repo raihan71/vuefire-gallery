@@ -1,0 +1,79 @@
+[{
+		"id": 1,
+		"date": "2021-07-15",
+        "tags": ["History", "Gourmet", "Fun Facts"],
+        "imgURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/RedDot_Burger.jpg/600px-RedDot_Burger.jpg",
+		"title": "Die Burger-Mania ist da",
+		"subtitle": "Das Wochenende steht im Zeichen des liebsten Hobbies der Deutschen: Grillen!",
+		"text": "Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag. Brunch raclette vexillologist post-ironic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn. Blue bottle ennui tbh succulents.><h3>Neu ist immer besser</h3>Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag. Brunch raclette vexillologist post-ironic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn.<br><br>Blue bottle ennui tbh succulents. Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag.",
+		"imgURL2": "https://www.vineria.de/assets/images/4/candle-light-dinner-premium-haendchenhalten-02-0627bf61.jpg",
+        "text2": "Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag. Brunch raclette vexillologist post-ironic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn. Blue bottle ennui tbh succulents.><h3>Neu ist immer besser</h3>Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag. Brunch raclette vexillologist post-ironic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn.<br><br>Blue bottle ennui tbh succulents. Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag."
+
+	},
+	{
+		"id": 2,
+		"date": "2021-07-14",
+        "tags": ["Partnerschaft"],
+        "imgURL": "https://images.immediate.co.uk/production/volatile/sites/30/2014/05/Epic-summer-salad-hub-2646e6e.jpg?webp=true&quality=45&resize=1240%2C1126",
+		"title": "Was macht OMR so?",
+		"subtitle": "OMR ist die Plattform für die Digital-Marketing-Branche. Das große Flaggschiff ist das OMR Festival mit 52.000 Besuchern.",
+		"text": "Der Text 2<br><br>sdfsdf sdfsdf sdf sdfdsf aff sdfsdf.",
+		"imgURL2": "https://images.eventpeppers.com/sites/default/files/imagecache/article-full/content/17-06/candle-light-dinner.jpg",
+        "text2": "Was soll das?"
+	},
+    {
+        "id": 3,
+		"date": "2021-07-11",
+        "tags": ["Gourmet", "Fun Facts"],
+        "imgURL": "https://www.vineria.de/assets/images/4/candle-light-dinner-premium-haendchenhalten-02-0627bf61.jpg",
+		"title": "Nachtisch mal anders...",
+		"subtitle": "Genießen Sie vom CHAMPAGNER-APERITIF über ein 4 GÄNGE MENÜ (Fleisch, Fisch, Vegetarisch oder Vegan) bis zum erlesenen WEIN und Mineralwasser, sowie zum Abschluss ein Digestif.",
+		"text": "Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag. Brunch raclette vexillologist post-ironic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn. Blue bottle ennui tbh succulents.><h3>Neu ist immer besser</h3>Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag. Brunch raclette vexillologist post-ironic glossier ennui XOXO mlkshk godard pour-over blog tumblr humblebrag. Blue bottle put a bird on it twee prism biodiesel brooklyn.<br><br>Blue bottle ennui tbh succulents. Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semiotics artisan synth stumptown gastropub cornhole celiac swag.",
+		"imgURL2": "",
+        "text2": ""
+    },
+    {
+        "id": 4,
+		"date": "2021-07-07",
+        "tags": ["Gourmet"],
+        "imgURL": "https://images.eventpeppers.com/sites/default/files/imagecache/article-full/content/17-06/candle-light-dinner.jpg",
+		"title": "Das Candlelight-Dinner: Von klassisch bis komisch",
+		"subtitle": "Ein Candle-Light-Dinner kann so viel mehr sein als ein romantisches Essen für zwei.",
+		"text": "Von spaßig bis zum Single-Abend – auf diese Variationsideen wären Sie nie gekommen!",
+		"imgURL2": "",
+        "text2": ""
+    },
+    {
+        "id": 5,
+		"date": "2021-07-02",
+        "tags": ["History", "Fun Facts"],
+        "imgURL": "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/teaser_720x406x2/dam/pnr/2020/products/History-of-the-Porsche-Targa/Ur-911/b-HDI-66401_1_911-2,0-Targa-(Mj.-1967).jpg/jcr:content/b-HDI%2066401_1_911%202,0%20Targa%20(Mj.%201967).jpg",
+		"title": "Die Targa Florio als Namensgeber",
+		"subtitle": "Das Targa-Konzept ist der Startschuss für ein neues Porsche-Fahrgefühl und begleitet fortan alle Elfer-Generationen.",
+		"text": "Reisegutscheincode oder Aktionscode gesucht? Der Flug zur Kreuzfahrt, das Hotel vorweg oder einen entspannten Kurzurlaub im Anschluss könnt ihr jetzt günstiger buchen. Wir haben euch die besten Reisegutscheine für Hotels, Flüge und Kreuzfahrten zusammengestellt.",
+		"imgURL2": "",
+        "text2": ""
+    },
+    {
+        "id": 6,
+		"date": "2021-07-02",
+        "tags": ["Aktuell"],
+        "imgURL": "https://www.nw.de/_em_daten/_cache/image/1xekc0SVN5N2FSQ295THpsTjdyUlVYZzBJd1RlaDZ2d3Y4VkxOTmFYN1d2YlphQ05MTXZUUXBsdzVyK21FeFRpSnFVaTVOT0M1cGZsM1hNQ0VlNDI0bGc9PQ/210512-1745-328303549.jpg",
+		"title": "Picknick-Konzerte-Reihe: Diese Künstler und Bands treten auf",
+		"subtitle": "\"Wir haben hochkarätige Künstler am Start\", sagt Georg Puls vom Wohlsein.",
+		"text": "Paderborn sei die einzige Stadt in Ostwestfalen-Lippe, die überhaupt ein solches Picknick-Konzert anbiete.",
+		"imgURL2": "",
+        "text2": ""
+    },
+    {
+        "id": 7,
+		"date": "2021-06-29",
+        "tags": ["Reisen", "Partnerschaft"],
+        "imgURL": "https://www.kreuzfahrtpiraten.de/wp-content/uploads/urlaub-am-meer.jpg",
+		"title": "Reisegutscheine für Hotels, Flüge und Reisen",
+		"subtitle": "Reisegutscheincode oder Aktionscode gesucht? Der Flug zur Kreuzfahrt, das Hotel vorweg oder einen entspannten Kurzurlaub im Anschluss könnt ihr jetzt günstiger buchen. Wir haben euch die besten Reisegutscheine für Hotels, Flüge und Kreuzfahrten zusammengestellt.",
+		"text": "Reisegutscheincode oder Aktionscode gesucht? Der Flug zur Kreuzfahrt, das Hotel vorweg oder einen entspannten Kurzurlaub im Anschluss könnt ihr jetzt günstiger buchen. Wir haben euch die besten Reisegutscheine für Hotels, Flüge und Kreuzfahrten zusammengestellt.<h3>Jetzt als Sonderangebot</h3>Reisegutscheincode oder Aktionscode gesucht? Der Flug zur Kreuzfahrt, das Hotel vorweg oder einen entspannten Kurzurlaub im Anschluss könnt ihr jetzt günstiger buchen. Wir haben euch die besten Reisegutscheine für Hotels, Flüge und Kreuzfahrten zusammengestellt.",
+		"imgURL2": "",
+        "text2": ""
+    }
+]
